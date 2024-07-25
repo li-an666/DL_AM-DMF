@@ -1,4 +1,4 @@
-## AI enabled multi-purpose smart detection in AM-DMF
+## Artificial intelligence-enabled multipurpose smart detection in active-matrix electrowetting-on-dielectric digital microfluidics
 ---
 
 ### Catalogs
@@ -19,7 +19,7 @@
 |:-----------|:------------------------------------------------------|
  YOLOv5      | https://github.com/ultralytics/yolov5                 
  Camera_sdk  | https://blog.csdn.net/XCJandLL/article/details/127126555?spm=1001.2014.3001.5501         
-  This work software      | https://github.com/li-an666/DL_AM-DMF
+ This work software      | https://github.com/li-an666/DL_AM-DMF
 
 
 ### Single-cell recognition
